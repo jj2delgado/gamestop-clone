@@ -1,0 +1,18 @@
+.Lower-Home-Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Lower-Home-Container div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Lower-Home-Container div h1{
+    font-family: 'Montserrat:800', sans-serif;
+    font-size: 2.25rem;
+    margin-top: 100px;
+    font-weight: bold;
+}
