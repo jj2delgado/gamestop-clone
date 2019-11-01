@@ -14,5 +14,16 @@
     font-family: 'Montserrat:800', sans-serif;
     font-size: 2.25rem;
     margin-top: 100px;
+    margin-bottom: 1.5rem;
     font-weight: bold;
+}
+.Featured-Container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.Featured-Container img{
+    height: 400px;
+    width: 640px
 }
